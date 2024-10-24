@@ -110,7 +110,7 @@ Data was collected using the **Alpha Vantage API**, covering daily stock data fo
 ## **How to Run the Project**
 ### **1. Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LucasHejmo/sp500_covid.git
 
    cd sp500_covid
 
