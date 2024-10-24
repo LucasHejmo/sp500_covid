@@ -1,0 +1,29 @@
+Event,Sector,T-Statistic,P-Value,Significant (P < 0.05)
+Wuhan Lockdown,Technology (XLK),-1.237,0.224,No
+Pandemic Declaration,Technology (XLK),0.755,0.455,No
+Initial US Lockdowns,Technology (XLK),1.495,0.143,No
+Vaccine Trials,Technology (XLK),-0.561,0.578,No
+Second Wave,Technology (XLK),0.313,0.756,No
+Vaccine Rollout,Technology (XLK),0.432,0.668,No
+Lockdown End,Technology (XLK),0.015,0.988,No
+Wuhan Lockdown,Healthcare (XLV),-1.306,0.2,No
+Pandemic Declaration,Healthcare (XLV),0.81,0.423,No
+Initial US Lockdowns,Healthcare (XLV),1.652,0.106,No
+Vaccine Trials,Healthcare (XLV),-0.76,0.452,No
+Second Wave,Healthcare (XLV),0.6,0.552,No
+Vaccine Rollout,Healthcare (XLV),0.149,0.882,No
+Lockdown End,Healthcare (XLV),0.404,0.688,No
+Wuhan Lockdown,Energy (XLE),-1.682,0.101,No
+Pandemic Declaration,Energy (XLE),1.45,0.155,No
+Initial US Lockdowns,Energy (XLE),2.418,0.02,Yes
+Vaccine Trials,Energy (XLE),-1.483,0.146,No
+Second Wave,Energy (XLE),1.663,0.104,No
+Vaccine Rollout,Energy (XLE),-0.485,0.63,No
+Lockdown End,Energy (XLE),-1.049,0.3,No
+Wuhan Lockdown,Financials (XLF),-1.488,0.145,No
+Pandemic Declaration,Financials (XLF),0.609,0.546,No
+Initial US Lockdowns,Financials (XLF),1.457,0.153,No
+Vaccine Trials,Financials (XLF),-0.993,0.327,No
+Second Wave,Financials (XLF),1.101,0.277,No
+Vaccine Rollout,Financials (XLF),-0.018,0.986,No
+Lockdown End,Financials (XLF),0.299,0.767,No
