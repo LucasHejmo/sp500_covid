@@ -104,6 +104,16 @@ Data was collected using the **Alpha Vantage API**, covering daily stock data fo
 ### 6. **Correlation Analysis**
    - Highlighted correlations between sectors’ recovery patterns, identifying shared recovery factors.##
 
+
+## Collaboration**
+
+- Lucas Hejmo Jones  (@Lucashejmo):   /During_Covid_Analysis
+- Rushad Confectioner  (@Rushad-hub):   /Pre_Covid_Analysis
+- Ruprekha Baruah  (@ruprekhab):   /Covid_Volatility_Analysis
+- Ammar Samad Khan  (@AmmarK995):   /Covid_Recovery_Analysis
+
+
+
 ## **License**
 ### **MIT**
 
