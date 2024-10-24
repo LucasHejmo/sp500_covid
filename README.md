@@ -85,7 +85,7 @@ Data was collected using the **Alpha Vantage API**, covering daily stock data fo
 
 ## **Technologies Used**
 - **Python**: Data processing and analysis.
-  - **Libraries**: `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `Requests`
+  - **Libraries**: `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `Requests`, `StringIO`, `Seaborn`
 - **Jupyter Notebook**: For interactive data exploration and visualization.
 - **Git**: Version control for collaborative work.
 - **Alpha Vantage API**: For fetching historical stock data.
