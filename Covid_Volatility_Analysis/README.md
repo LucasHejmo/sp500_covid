@@ -17,7 +17,7 @@ Post-COVID: 01-01-2022 to 31-12-2023
 
 ### Repository Structure
 
-snp_ruprekha has the following folders and files
+Covid_Volatility_Analysis has the following folders and files
 
 * Resources Folder: Contains four CSV files with historical data for each sector, including open, high, low, close, and volume.
 
